@@ -1,0 +1,8 @@
+PyQt6
+opencv-python
+numpy
+google-genai
+python-dotenv
+reportlab
+Pillow
+PyMuPDF
